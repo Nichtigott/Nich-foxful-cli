@@ -1,4 +1,4 @@
-module github.com/anhoder/foxful-cli
+module github.com/Nichtigott/Nich-foxful-cli
 
 go 1.20
 
